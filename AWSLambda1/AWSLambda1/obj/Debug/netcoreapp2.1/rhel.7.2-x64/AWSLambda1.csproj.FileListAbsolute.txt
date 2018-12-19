@@ -1,0 +1,11 @@
+E:\AWS\AWSLambda1\AWSLambda1\bin\Debug\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.deps.json
+E:\AWS\AWSLambda1\AWSLambda1\bin\Debug\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.runtimeconfig.json
+E:\AWS\AWSLambda1\AWSLambda1\bin\Debug\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.runtimeconfig.dev.json
+E:\AWS\AWSLambda1\AWSLambda1\bin\Debug\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.dll
+E:\AWS\AWSLambda1\AWSLambda1\bin\Debug\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.pdb
+E:\AWS\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.csprojAssemblyReference.cache
+E:\AWS\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.csproj.CoreCompileInputs.cache
+E:\AWS\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.AssemblyInfoInputs.cache
+E:\AWS\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.AssemblyInfo.cs
+E:\AWS\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.dll
+E:\AWS\AWSLambda1\AWSLambda1\obj\Debug\netcoreapp2.1\rhel.7.2-x64\AWSLambda1.pdb
